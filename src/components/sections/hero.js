@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m an aspiring IT & Cybersecurity Professional specializing in the protection and defense of systems against threats and vulnerabilities.. Currently, I’m focused on troubleshooting and supporting Microsoft Azure services
+        I’m an aspiring IT & Cybersecurity Professional specializing in the protection and defense of systems against threats and vulnerabilities. Currently, I’m focused on troubleshooting and supporting Microsoft Azure services
         at{' '}
         <a href="https://lognpacific.com/" target="_blank" rel="noreferrer">
           Log(N)Pacific
@@ -77,7 +77,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href={`mailto:${email}`}
+      href="mailto:johnbsomanza@gmail.com"
       target="_blank"
       rel="noreferrer">
       Get In Touch
