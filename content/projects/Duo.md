@@ -1,5 +1,5 @@
 ---
-date: '2021-08-08'
+date: '2024-08-08'
 title: 'Duo Multi-Factor Authentication (MFA)'
 github: 'https://github.com/JohnSomanza/Securing-RDP-With-MFA'
 external: ''
