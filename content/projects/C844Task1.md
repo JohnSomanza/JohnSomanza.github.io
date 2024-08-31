@@ -1,5 +1,5 @@
 ---
-date: '2024-05-01'
+date: '2024-01-05'
 title: 'C844 Emerging Technologies in Cybersecurity Lab (Task 1)'
 github: 'https://github.com/JohnSomanza/C844-Emerging-Technologies-in-Cybersecurity-Lab'
 external: ''
