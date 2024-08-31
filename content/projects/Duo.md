@@ -8,5 +8,7 @@ tech:
   - Remote Desktop Protocol (RDP)
   - Cisco Duo Security RDP
 company: ''
-showInProjects: false
+showInProjects: true
 ---
+
+In this lab, we will enhance the security of our Azure Server 2019 by integrating Multi-Factor Authentication (MFA) using Duo Security for Remote Desktop Protocol (RDP) access.

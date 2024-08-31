@@ -9,5 +9,7 @@ tech:
   - Internet Information Services (IIS)
   - Windows 10 (22H2)
 company: 'Leveld Careers'
-showInProjects: false
+showInProjects: true
 ---
+
+This tutorial details the prerequisites and installation process for the open-source help desk ticketing system, osTicket.

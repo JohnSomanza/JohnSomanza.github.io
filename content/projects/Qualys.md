@@ -9,5 +9,7 @@ tech:
   - Qualys Virutal Scanner Appliance
   - MSRC CVE
 company: ''
-showInProjects: false
+showInProjects: true
 ---
+
+In this project, we will utilize Qualys, a cloud-based service for vulnerability scanning and management, to conduct thorough scans on a Windows virtual machine.

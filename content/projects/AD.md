@@ -12,5 +12,7 @@ tech:
   - NAT
   - DHCP
 company: ''
-showInProjects: false
+showInProjects: true
 ---
+
+In this guide, I’ll show you how to set up a home lab to run Active Directory using Oracle VirtualBox.

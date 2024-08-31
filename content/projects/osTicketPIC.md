@@ -1,5 +1,5 @@
 ---
-date: '2024-08-25'
+date: '2024-08-26'
 title: 'osTicket (Help Desk Ticketing System): Post-Installation Configuration'
 github: 'https://github.com/JohnSomanza/Post-Install-Config'
 external: ''
@@ -12,4 +12,4 @@ company: 'Leveld Careers'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Here’s a tutorial on how to configure roles, departments, teams, users, agents, SLAs, and help topics in osTicket:

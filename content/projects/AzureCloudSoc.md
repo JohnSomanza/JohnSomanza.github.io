@@ -10,5 +10,7 @@ tech:
   - Log Analytics
   - Network Security Groups
 company: 'Leveld Careers'
-showInProjects: false
+showInProjects: true
 ---
+
+In this project, I established a mini honeynet within Azure and aggregated log data from various sources into a Log Analytics workspace.

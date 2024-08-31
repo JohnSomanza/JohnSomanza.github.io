@@ -1,5 +1,5 @@
 ---
-date: '2024-08-25'
+date: '2024-08-27'
 title: 'osTicket (Help Desk Ticketing System): Ticket Lifecycle Examples'
 github: 'https://github.com/JohnSomanza/Ticket-Lifecycle'
 external: ''
@@ -8,8 +8,8 @@ tech:
   - Remote Desktop
   - Internet Information Services (IIS)
   - Windows 10 (22H2)
-company: ''
+company: 'Leveld Careers'
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+This tutorial explains the lifecycle of a ticket from intake to resolution within the osTicket open-source help desk ticketing system.
