@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Azure Cloud SOC'
-cover: './Azure.gif'
+cover: './Azure.png'
 github: 'https://github.com/JohnSomanza/Cloud-SOC-Honeynet'
 external: 'https://github.com/JohnSomanza/Cloud-SOC-Honeynet'
 tech:
