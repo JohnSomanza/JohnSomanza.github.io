@@ -136,7 +136,7 @@ const About = () => {
           <div>
             <p>
             Hello! I'm John, a Cyber Security Support Technician (Intern) at{' '}
-              <a href="www.linkedin.com/in/john-somanza-84b3072a6">Log(N)Pacific</a> and a gym rat.
+              <a href="https://www.linkedin.com/in/john-somanza-84b3072a6/">Log(N)Pacific</a> and a gym rat.
             </p>
 
             <p>
