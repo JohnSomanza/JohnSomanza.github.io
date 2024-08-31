@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Microsoft Azure (Azure Sentinel, Entra ID)', 'Duo', 'VirtualBox', 'Qualys', 'Splunk Enterprise', 'osTicket'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,30 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is John and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+            Hello! I'm John, a Cyber Security Support Technician (Intern) at{' '}
+              <a href="www.linkedin.com/in/john-somanza-84b3072a6">Log(N)Pacific</a> and a gym rat.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+            I’m deeply engaged in securing systems, managing access, and mitigating vulnerabilities. 
+            My focus is on implementing effective security measures, understanding threat landscapes,
+            and addressing complex security challenges to protect valuable information and assets.
+            </p>
+
+            <p>
+            Before starting college, cybersecurity felt completely unfamiliar to me, and to be honest, it still does at times. 
+            But what has changed is my approach to the challenge. 
+            I've come to appreciate that the constantly evolving nature of cybersecurity is what makes it both exciting and rewarding. 
+            Just like going to the gym with the goal of shaping your body, it demands hard work, discipline, consistency, patience, applying what you've learned, and staying humble.
             </p>
 
             <p>
               I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              <a href="https://www.youtube.com/">
+                started a youtube channel
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              where I post videos of me completing LetsDefend/TryHackMe learning paths and challenges.
+              The goal of this channel is to post a video every day to showcase my commitment to learning and growing in this constantly evolving field.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
