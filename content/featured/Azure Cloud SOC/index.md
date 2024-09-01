@@ -3,7 +3,7 @@ date: '1'
 title: 'Azure Cloud SOC'
 cover: './Azure.png'
 github: 'https://github.com/JohnSomanza/Cloud-SOC-Honeynet'
-external: 'https://github.com/JohnSomanza/Cloud-SOC-Honeynet'
+external: ''
 tech:
   - Azure Virtual Machines
   - Microsoft Sentinel (SIEM)

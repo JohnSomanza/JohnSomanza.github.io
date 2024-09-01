@@ -3,7 +3,7 @@ date: '2'
 title: 'osTicket (Help Desk Ticketing System)'
 cover: './osTicket.png'
 github: 'https://github.com/JohnSomanza/osTicket-Prereqs'
-external: 'https://github.com/JohnSomanza/osTicket-Prereqs'
+external: ''
 tech:
   - Microsoft Azure (Virtual Machines)
   - Remote Desktop
