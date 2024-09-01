@@ -3,8 +3,8 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'John Somanza | IT & Cybersecurity',
-    description:
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    description: 'John Somanza is an aspiring IT & Cybersecurity Professional specializing in the protection and defense of systems against threats and vulnerabilities.' ,
+    siteUrl: 'https://johnsomanza.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
