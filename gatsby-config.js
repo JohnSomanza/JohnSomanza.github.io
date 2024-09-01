@@ -5,8 +5,7 @@ module.exports = {
     title: 'John Somanza | IT & Cybersecurity',
     description: 'John Somanza is an aspiring IT & Cybersecurity Professional specializing in the protection and defense of systems against threats and vulnerabilities.' ,
     siteUrl: 'https://johnsomanza.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    image: '/front.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
