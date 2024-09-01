@@ -6,8 +6,8 @@ const IconLoader = () => (
     <g>
       <g id="J" transform="translate(11.000000, 5.000000)">
         <path
-          d="M35 30 Q35 50 28 55 Q21 60 15 55 Q10 50 15 45 Q18 50 23 50 Q28 50 28 45 L28 30 Z"
-          transform="translate(22, 15)"
+          d="M35 20 Q35 45 25 55 Q15 65 10 55 Q15 55 20 55 Q25 55 25 45 L25 20 Z"
+          transform="translate(20, 18)"
           fill="currentColor"
         />
       </g>
