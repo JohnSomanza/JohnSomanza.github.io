@@ -10,6 +10,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/john-somanza-84b3072a6',
     },
+    {
+      name: 'Youtube',
+      url: 'https://www.youtube.com/',
+    },
   ],
 
   navLinks: [
