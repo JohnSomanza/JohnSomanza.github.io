@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'John Somanza | IT & Cybersecurity',
     description:
-    siteUrl: 'https://johnsomanza.com', // No trailing slash allowed!
+    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
