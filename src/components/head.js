@@ -30,7 +30,6 @@ const Head = ({ title, description, image }) => {
     defaultDescription,
     siteUrl,
     defaultImage,
-    twitterUsername,
   } = site.siteMetadata;
 
   const seo = {
