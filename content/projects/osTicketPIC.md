@@ -2,7 +2,7 @@
 date: '2024-08-26'
 title: 'osTicket (Help Desk Ticketing System): Post-Installation Configuration'
 github: 'https://github.com/JohnSomanza/Post-Install-Config'
-external: ''
+external: 'https://github.com/JohnSomanza/Post-Install-Config'
 tech:
   - Microsoft Azure (Virtual Machines)
   - Remote Desktop

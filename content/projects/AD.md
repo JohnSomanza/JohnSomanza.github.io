@@ -2,7 +2,7 @@
 date: '2024-08-10'
 title: 'Active Directory'
 github: 'https://github.com/JohnSomanza/Active-Directory-On-VirtualBox'
-external: ''
+external: 'https://github.com/JohnSomanza/Active-Directory-On-VirtualBox'
 tech:
   - Powershell
   - VirtualBox

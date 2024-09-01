@@ -2,7 +2,7 @@
 date: '2024-08-27'
 title: 'osTicket (Help Desk Ticketing System): Ticket Lifecycle Examples'
 github: 'https://github.com/JohnSomanza/Ticket-Lifecycle'
-external: ''
+external: 'https://github.com/JohnSomanza/Ticket-Lifecycle'
 tech:
   - Microsoft Azure (Virtual Machines)
   - Remote Desktop
