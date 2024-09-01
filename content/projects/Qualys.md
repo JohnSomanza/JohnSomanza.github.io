@@ -2,7 +2,7 @@
 date: '2024-08-11'
 title: 'Vulnerability Management'
 github: 'https://github.com/JohnSomanza/Qualys-Vulnerability-Management'
-external: ''
+external: 'https://github.com/JohnSomanza/Qualys-Vulnerability-Management'
 tech:
   - Microsoft Azure
   - Windows 10
