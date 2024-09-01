@@ -11,7 +11,7 @@ module.exports = {
       url: 'https://www.linkedin.com/in/john-somanza-84b3072a6',
     },
     {
-      name: 'Youtube',
+      name: 'Twitter',
       url: 'https://www.youtube.com/',
     },
   ],
