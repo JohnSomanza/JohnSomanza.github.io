@@ -154,7 +154,7 @@ const About = () => {
 
             <p>
               I also recently{' '}
-              <a href="https://www.youtube.com/">
+              <a href="https://www.youtube.com/@JohnBSomanza">
                 started a youtube channel
               </a>{' '}
               where I post videos of me completing LetsDefend/TryHackMe learning paths and challenges.
