@@ -1,5 +1,5 @@
 ---
-date: '2022-06-01'
+date: '2020-06-01'
 title: 'Deli/Dairy Clerk'
 company: 'Ralphs Grocery Company'
 location: 'Woodland Hills, CA'
