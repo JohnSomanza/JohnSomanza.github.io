@@ -1,7 +1,7 @@
 ---
 date: '2024-01-29'
 title: 'Sr. Data Entry Clerk'
-company: 'PCI Consultants'
+company: 'PCI Consultants Inc'
 location: 'Westlake Village, CA'
 range: 'January - February 2024'
 ---

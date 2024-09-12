@@ -1,7 +1,7 @@
 ---
 date: '2020-06-01'
 title: 'Deli/Dairy Clerk'
-company: 'Ralphs'
+company: 'Ralphs Grocery Company'
 location: 'Woodland Hills, CA'
 range: 'June 2020 - August 2022'
 ---
