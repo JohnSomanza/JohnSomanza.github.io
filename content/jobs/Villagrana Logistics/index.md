@@ -1,7 +1,7 @@
 ---
 date: '2024-07-01'
 title: 'Amazon Delivery Driver'
-company: 'Villagrana Logistics Inc'
+company: 'Villagrana Logistics'
 location: 'Simi Valley, CA'
 range: 'July - August 2024'
 ---
